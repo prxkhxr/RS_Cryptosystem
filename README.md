@@ -33,12 +33,6 @@ Decrypted Data = c^d mod n.
 Thus our Encrypted Data comes out to be 89
 8 = H and I = 9 i.e. "HI".
 
-Project Proposal - DONE
-
-Intermediate Submission - DONE (See Intermediate_submission.txt)
-
-Final Submission - DONE
-
 
 INSTRUCTIONS TO RUN THE PROJECT:
 1. Open "main" directory.
